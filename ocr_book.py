@@ -2,8 +2,10 @@ from pdf2image import convert_from_path
 from PIL import Image, ImageEnhance
 import pytesseract
 import os
+import cv2
+import numpy as np
 
-pytesseract.pytesseract.tesseract_cmd = "C:\Program Files\Tesseract-OCR\\tesseract.exe" 
+pytesseract.pytesseract.tesseract_cmd = "C:\\Program Files\\Tesseract-OCR\\tesseract.exe"
 
 #cesta_k_pdf = 'LoR.pdf' 
 cesta_k_pdf = 'Zakazana_retorika.pdf' 
