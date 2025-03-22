@@ -174,5 +174,7 @@ cython_debug/
 .pypirc
 
 *.pdf
-.Release-24.08.0-0/
-.temp_obrazky/
+Release-24.08.0-0/
+temp_obrazky/
+
+vystup_z_pdf.txt
