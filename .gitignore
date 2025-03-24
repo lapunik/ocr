@@ -175,6 +175,6 @@ cython_debug/
 
 *.pdf
 Release-24.08.0-0/
-temp_obrazky/
+temp_images/
 
-vystup_z_pdf.txt
+output_from_pdf.txt
